@@ -1,2 +1,4 @@
-
-{"theme_cfg":"http:\/\/nati.oss-cn-hangzhou.aliyuncs.com\/theme_wallpaper\/Themes_cfg_foreign.txt","wallpaper_cfg":"http:\/\/nati.oss-cn-hangzhou.aliyuncs.com\/theme_wallpaper\/Wallpapers_cfg_foreign.txt"}
+{
+  "theme_cfg": "https://raw.githubusercontent.com/ilumobile/slauncher/master/Themes_cfg_foreign.txt",
+  "wallpaper_cfg": "https://raw.githubusercontent.com/ilumobile/slauncher/master/Wallpapers_cfg_foreign.txt"
+}
