@@ -1,15 +1,15 @@
 [
   {
     "40": {
-      "pkgname": "com.file.manager.cleaner",
+      "pkgname": "com.asuna.win10.pclauncher",
       "name": null,
       "preview_url": null,
       "type": null,
-      "appname": "File Manager",
+      "appname": "Computer Launcher",
       "app_description": "Manage files, clean junk, boost phone, and antivirus",
-      "icon": "http://nati.oss-cn-hangzhou.aliyuncs.com/tuijian/file_manager.png",
+      "icon": "https://lh3.googleusercontent.com/xTPppMAn-gq_lRJTObzdo9Zd9NfN7YRJRLsttvRabgJ_06AyJpQwpAuvAhcoOAVHqC5k=s180-rw",
       "offer_description": null,
-      "tracklink": "https://play.google.com/store/apps/details?id=com.file.manager.cleaner",
+      "tracklink": "https://play.google.com/store/apps/details?id=com.asuna.win10.pclauncher",
       "payout": "0.6",
       "creative_link": null,
       "30_f": 0,
