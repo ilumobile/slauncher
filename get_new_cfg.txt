@@ -1,0 +1,2 @@
+
+{"theme_cfg":"http:\/\/nati.oss-cn-hangzhou.aliyuncs.com\/theme_wallpaper\/Themes_cfg_foreign.txt","wallpaper_cfg":"http:\/\/nati.oss-cn-hangzhou.aliyuncs.com\/theme_wallpaper\/Wallpapers_cfg_foreign.txt"}
